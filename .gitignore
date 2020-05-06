@@ -4,3 +4,5 @@ build/
 \.project
 \.settings/
 \.travis/signingkey.asc
+.scans/
+out/
